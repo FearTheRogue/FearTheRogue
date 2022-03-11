@@ -1,4 +1,4 @@
-### HI there, I'm James - aka [FearTheRogue][website]
+### Hi there, I'm Jim - aka [FearTheRogue][website]
 
 
 
