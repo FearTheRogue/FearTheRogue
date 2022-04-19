@@ -32,8 +32,8 @@
 
 ---
 
-<img align="left" alt= "FearTheRogue GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FearTheRogue&count_private=true&show_icons=true&theme=nord"/>
-<img align="left" alt= "FearTheRogue Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FearTheRogue&layout=compact&theme=nord"/>
+[![FearTheRogue GitHub Stats](https://github-readme-stats.vercel.app/api?username=FearTheRogue&include_all_commits=true&count_private=true&show_icons=true&hide=stars&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FearTheRogue&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://www.rogue-studios.com
 [twitter]: https://twitter.com/roguestudiosdev
