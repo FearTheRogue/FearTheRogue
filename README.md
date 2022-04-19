@@ -13,7 +13,7 @@
 ### Connect with me:
 
 [<img align="left" alt="rogue-studios.com" width="26px" src="https://raw.githubusercontent.com/FearTheRogue/profile-images/main/images/website-icon.png?token=GHSAT0AAAAAABQPFFNC4DOFW3SGKGUMZKDAYS6VN6Q"/>][website]
-[<img align="left" alt="Rogue Studios | Twitter" width="26px" src="https://raw.githubusercontent.com/FearTheRogue/profile-images/89bc8ce621cd0871715efcf734edf4fe2d3d9c25/images/Logo%20blue.svg?token=AKMH23K3VGS7LMWAEZQU7JLCL2MZO"/>][twitter]
+[<img align="left" alt="Rogue Studios | Twitter" width="26px" src="https://raw.githubusercontent.com/FearTheRogue/profile-images/3086f07a15f2852466273398c2e8af2e70067653/images/Logo%20blue.svg?token=AKMH23ORQ27EFXP3U2D3KFLCL2QLS"/>][twitter]
 [<img align="left" alt="James Bridgman | LinkedIn" width="26px" src="https://raw.githubusercontent.com/FearTheRogue/profile-images/main/images/LI-In-Bug.png?token=GHSAT0AAAAAABQPFFNDKN6J26AY34PM55J4YS6U5CQ"/>][linkedin]
 [<img align="left" alt="Rogue Studios | Itch" width="26px" src="https://user-images.githubusercontent.com/7604468/87527283-e4b9eb00-c659-11ea-8281-dc9d8377ce30.png"/>][Itch]
 
