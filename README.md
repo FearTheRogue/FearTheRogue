@@ -26,14 +26,14 @@
 <img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/halak/unity-editor-icons/master/icons/small/d_UnityLogo.png"/>
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/FearTheRogue/profile-images/main/images/blender_icon_1024x1024.png?token=GHSAT0AAAAAABQPFFNCVCO32HHTXRDGG2IEYS6VQEQ"/>
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/FearTheRogue/profile-images/main/images/GitHub-Mark-Light-120px-plus.png?token=GHSAT0AAAAAABQPFFNCCCNPAOAZBWSHJBJAYS6VNJQ" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/FearTheRogue/profile-images/main/images/GitHub-Mark-Light-120px-plus.png?token=GHSAT0AAAAAABQPFFNCCCNPAOAZBWSHJBJAYS6VNJQ"/>
 
 <br />
 
 ---
 
-<img align="left" alt= "FearTheRogue GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FearTheRogue&show_icons=true&hide_border=true"/>
-<img align="left" alt= "FearTheRogue GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FearTheRogue&layout=compact&show_icons=true&hide_border=true"/>
+<img align="left" alt= "FearTheRogue GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FearTheRogue&count_private=true&show_icons=true&theme=nord"/>
+<img align="left" alt= "FearTheRogue Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FearTheRogue&layout=compact&theme=nord"/>
 
 [website]: https://www.rogue-studios.com
 [twitter]: https://twitter.com/roguestudiosdev
