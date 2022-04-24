@@ -12,9 +12,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="rogue-studios.com" width="26px" src="https://raw.githubusercontent.com/FearTheRogue/profile-images/main/images/website-icon.png?token=GHSAT0AAAAAABQPFFNC4DOFW3SGKGUMZKDAYS6VN6Q"/>][website]
-[<img align="left" alt="Rogue Studios | Twitter" width="26px" src="https://raw.githubusercontent.com/FearTheRogue/profile-images/main/images/Twitter%20social%20icons%20-%20circle%20-%20blue.png?token=GHSAT0AAAAAABQPFFND63PTZLU6HZVV3JKSYS6WHPQ"/>][twitter]
-[<img align="left" alt="James Bridgman | LinkedIn" width="26px" src="https://raw.githubusercontent.com/FearTheRogue/profile-images/main/images/LI-In-Bug.png?token=GHSAT0AAAAAABQPFFNDKN6J26AY34PM55J4YS6U5CQ"/>][linkedin]
+[<img align="left" alt="rogue-studios.com" width="26px" src="https://github.com/FearTheRogue/profile-images/blob/main/images/website-icon.png"/>][website]
+[<img align="left" alt="Rogue Studios | Twitter" width="26px" src="https://github.com/FearTheRogue/profile-images/blob/main/images/Twitter%20social%20icons%20-%20circle%20-%20blue.png"/>][twitter]
+[<img align="left" alt="James Bridgman | LinkedIn" width="26px" src="https://github.com/FearTheRogue/profile-images/blob/main/images/LI-In-Bug.png"/>][linkedin]
 [<img align="left" alt="Rogue Studios | Itch" width="26px" src="https://user-images.githubusercontent.com/7604468/87527283-e4b9eb00-c659-11ea-8281-dc9d8377ce30.png"/>][Itch]
 
 <br />
@@ -25,8 +25,7 @@
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"/>
 <img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/halak/unity-editor-icons/master/icons/small/d_UnityLogo.png"/>
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"/>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/FearTheRogue/profile-images/main/images/blender_icon_1024x1024.png?token=GHSAT0AAAAAABQPFFNCVCO32HHTXRDGG2IEYS6VQEQ"/>
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/FearTheRogue/profile-images/main/images/GitHub-Mark-Light-120px-plus.png?token=GHSAT0AAAAAABQPFFNCCCNPAOAZBWSHJBJAYS6VNJQ"/>
+<img align="left" alt="GitHub" width="26px" src="https://github.com/FearTheRogue/profile-images/blob/main/images/GitHub-Mark-Light-120px-plus.png"/>
 
 <br />
 
