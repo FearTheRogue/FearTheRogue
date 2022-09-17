@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=rogue-studios.com&style=for-the-badge&url=https%3A%2F%2Frogue-studios.com)](https://www.rogue-studios.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/roguestudiosdev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=roguestudiosdev)
 
-## I'm a Final Year Student at the University of Plymouth!
+## I'm a 2022 graduate at the University of Plymouth, achieving a First Degree Honours!
 
 - :thinking: I’m currently learning C++ & OpenGL, and working on my final project, Galaxy Xtinction.
 - :student: I’m looking to get a job in industy after graduation
