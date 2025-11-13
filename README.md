@@ -5,9 +5,9 @@
 
 ## I'm a 2022 graduate at the University of Plymouth, achieving a First Degree Honours!
 
-- :thinking: I’m currently learning C++ & OpenGL, and working on my final project, Galaxy Xtinction.
+- :thinking: In my spare time, I like to work on software projects and learn new tools or languages to keep my skills up to date.
 - :student: I’m looking to get a job in industy after graduation
-- :crossed_fingers: 2022 Goals: Contribute more to Open Source projects
+- :crossed_fingers: 2025 Goals: Contribute more to Open Source projects
 - :zap: Fun fact: I like to rock climb, and play video games, and have recently taken up playing the guitar
 
 ### Connect with me:
