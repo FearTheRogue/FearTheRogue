@@ -1,39 +1,38 @@
-### Hi there, I'm James - aka [FearTheRogue][website] :wave:
+## Hi there, I’m James — aka FearTheRogue 👋
 
-[![Website](https://img.shields.io/website?label=rogue-studios.com&style=for-the-badge&url=https%3A%2F%2Frogue-studios.com)](https://www.rogue-studios.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/roguestudiosdev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=roguestudiosdev)
+🌐 [Portfolio](https://www.rogue-studios.com/) • 💼 [LinkedIn](https://www.linkedin.com/in/james-bridgman-934282172/)
 
-## I'm a 2022 graduate at the University of Plymouth, achieving a First Degree Honours!
-
-- :thinking: In my spare time, I like to work on software projects and learn new tools or languages to keep my skills up to date.
-- :student: I’m looking to get a job in industy after graduation
-- :crossed_fingers: 2026 Goals: Contribute more to Open Source projects & work on my GitHub projects
-- :zap: Fun fact: I like to rock climb, and play video games, and have recently taken up playing the guitar
-
-### Connect with me:
-
-[<img align="left" alt="rogue-studios.com" width="26px" src="https://github.com/FearTheRogue/profile-images/blob/main/images/website-icon.png"/>][website]
-[<img align="left" alt="Rogue Studios | Twitter" width="26px" src="https://github.com/FearTheRogue/profile-images/blob/main/images/Twitter%20social%20icons%20-%20circle%20-%20blue.png"/>][twitter]
-[<img align="left" alt="James Bridgman | LinkedIn" width="26px" src="https://github.com/FearTheRogue/profile-images/blob/main/images/LI-In-Bug.png"/>][linkedin]
-[<img align="left" alt="Rogue Studios | Itch" width="26px" src="https://user-images.githubusercontent.com/7604468/87527283-e4b9eb00-c659-11ea-8281-dc9d8377ce30.png"/>][Itch]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"/>
-<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/halak/unity-editor-icons/master/icons/small/d_UnityLogo.png"/>
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"/>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/FearTheRogue/profile-images/blob/main/images/GitHub-Mark-Light-120px-plus.png"/>
-
-<br />
+🎓 Computing & Game Development graduate (First Class Honours, University of Plymouth)  
+💻 Aspiring Software & Game Developer  
+🚀 Building practical software projects and small games while improving my skills every day
 
 ---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FearTheRogue&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+### 🧠 About Me
+- 👨‍💻 I enjoy solving real-world problems through clean, maintainable code  
+- 📚 I’m always learning new tools, technologies, and development practices  
+- 🎯 Currently seeking an entry-level or apprenticeship role in the tech industry  
 
-[website]: https://www.rogue-studios.com
-[twitter]: https://twitter.com/roguestudiosdev
-[linkedin]: https://www.linkedin.com/in/james-bridgman-934282172/
-[Itch]: https://rogue-studios.itch.io/
+---
+
+### 🛠 Tech Stack
+**Languages:**  
+- C# • C++ • Java • JavaScript  
+
+**Tools & Frameworks:**  
+- .NET • Unity • Git • MySQL  
+
+---
+
+### 🎯 2026 Goals
+- Contribute to open source projects  
+- Build and ship more complete, well-documented projects  
+- Strengthen my foundations as a professional software developer  
+
+---
+
+### ⚡ Fun Facts
+- 🧗 Rock climber — problem-solving with a physical twist
+- 🎸 Currently learning guitar (slowly, but enjoying it)
+- 🎮 Gamer who enjoys both playing and building games
+  
