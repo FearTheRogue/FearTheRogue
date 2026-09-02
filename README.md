@@ -1,6 +1,6 @@
 ## Hi there, I’m James — aka FearTheRogue 👋
 
-🌐 [Portfolio](https://www.rogue-studios.com/) • 💼 [LinkedIn](https://www.linkedin.com/in/james-bridgman-934282172/)
+🌐 [Portfolio](https://jamesbridgmandev.wixsite.com/website-5) • 💼 [LinkedIn](https://www.linkedin.com/in/james-bridgman-934282172/)
 
 🎓 Computing & Game Development graduate (First Class Honours, University of Plymouth)  
 💻 Aspiring Software & Game Developer  
